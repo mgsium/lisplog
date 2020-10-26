@@ -2,11 +2,38 @@
 
 (Initial Entry)
 
+Targets:
 [/] Set up Emacs & SLIME env.
 [/] Initialize GitHub Repository.
 
-[ ] Basic Lisp Syntax and Language Components
+[/] Lisp History
+[/] Basic Lisp Syntax and Language Components
+Notes:
+Lisp Machine: A (computer) machine designed to run Lisp natively from the bottom up, first pioneered at MIT.
 
+GNU -> GNU is not Unix
+SLIME -> Superior Lisp Interaction Mode for Emacs
+SBCL -> Steel Bank Common Lisp
+
+- Lisp uses Prefix/Polish/Łukasiewicz notation.
+- SBCL derives from CMUCL (Carnegie Mellon University Common Lisp)
+- CLisp derives from John McCarthy's origial 1956-borne Lisp.
+  - McCarthy was an AI researcher.
+  - Common Lisp the Language (CLtL), Guy Steele was published in 1984.
+  - ANSI published another CLisp standard in 1996.
+- The Basic Unit of Lisp Programs are S-Expressions
+  - "Atoms" are indivisble S-expressions.
+- Emacs is built on a C core, but is extensible in Lisp.
+
+Questions from today:
+What is Aspect Oriented Programming (AOP)?
+Difference between Lexical vs Dynamic Variables Bindings?
+
+Sources:
+"The Lisp Machine and GNU", https://www.youtube.com/watch?v=dMFLQ1t7iaQ
+"Practical Common Lisp: 'Why Lisp'", http://www.gigamonkeys.com/book/introduction-why-lisp.html
+"Practical Common Lisp: 'Lather, Rinse, Repeat: A Tour of the REPL", ^^
+"S-expressions, the Syntax of Lisp", https://www.cs.unm.edu/~luger/ai-final2/LISP/CH%2011_S-expressions,%20The%20Syntax%20of%20Lisp.pdf
 
 
 
