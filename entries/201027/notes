@@ -1,0 +1,21 @@
+201027 Lisp Log Entry
+
+Targets:
+[/] Learn the Basic Lisp Data Types
+[/] Optional Parameters
+[/] Learn about Scope in Lisp
+
+- A list that starts with a string has no meaning as a lisp form.
+- "\" is an escape charactre in lisp strings.
+- Names can contain numbers (as long as the name cannot wholly be represented as a number), but not whitespace.
+- &rest specifies a list containing any number of optional parameters
+- &optional specifies a single optional parameter
+
+Interesting Talk: https://www.youtube.com/watch?v=0rSMt1pAlbE
+
+Sources:
+"Practical Common Lisp: 'Syntax and Semantics'", http://www.gigamonkeys.com/book/syntax-and-semantics.html
+"common-list: Summing a list", https://riptutorial.com/common-lisp/example/8770/summing-a-list
+"A Brief Introduction to LISP - Pt 3, Scoping", https://www.youtube.com/watch?v=xfh-oXjS73I
+
+
