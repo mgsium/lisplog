@@ -19,3 +19,6 @@ entries
 
 #### Resources I'm Using
 [*Practical Common Lisp*](http://www.gigamonkeys.com/book/), Peter Seibel
+
+#### Interesting Talks/Lectures
+[*Clasp: Common Lisp using LLVM and C++ for Designing Molecules*](https://www.youtube.com/watch?v=0rSMt1pAlbE), Google TechTalks
