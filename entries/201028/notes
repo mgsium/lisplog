@@ -1,0 +1,23 @@
+201028 Lisp Log Entry
+
+Targets:
+[/] Learn about basic varible defintions. (LET, LET*)
+[/] Learn about Constant defintions.
+[/] Learn about basic Lambda expressions.
+
+- CLisp supports "lexical" and "dynamic" variables.
+- CLisp has both strongly and dynamically typed aspects, but is generally conisdered strong typed on the whole.
+- LET introduces variables within a local scope
+- LET* is similar to LET, but allows initial variable forms to refer to variables in the list.
+- All constants are global and are defined with DEFCONSTANT
+- LAMBDA defines anonymous functions, for use as predicates, for example.
+
+Further Reading:
+"Typed Lisp, A Primer", https://alhassy.github.io/TypedLisp.html
+
+Interesting Talk:
+"What is the Curse of Lisp", https://www.youtube.com/watch?v=_J3x5yvQ8yc
+
+Sources:
+"Practical Common Lisp: 'Variables'", http://www.gigamonkeys.com/book/variables.html
+"Practical Common Lisp: 'Practical: A Simple Database'", http://www.gigamonkeys.com/book/practical-a-simple-database.html
