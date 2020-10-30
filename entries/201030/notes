@@ -1,0 +1,14 @@
+201030 Lisp Log Entry
+
+Targets:
+[/] Learn about Fixed Recursion in Lisp
+[/] Learn about Variable Recursion in Lisp
+
+Notes:
+- LOOP and ITER are both notable macros used for iteration
+  - LOOP is part of the clisp standard library, but ITER is not.
+- DOLIST and DOTIMES allow for the binding of a single iteration variable at one time, whereas DO allows for multiple variable bindings.
+
+Sources:
+"The Common Lisp Cookbook - Loop, iteration, mapping", https://lispcookbook.github.io/cl-cookbook/iteration.html
+"Practical Common Lisp: 'Macros: Standard Control Constructs'", http://www.gigamonkeys.com/book/macros-standard-control-constructs.html
