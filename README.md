@@ -1,6 +1,6 @@
 # :notebook: lisplog
 
-A daily log of my lisp learning.
+A log of my lisp learning.
 
 #### Entry Structure
 ```
