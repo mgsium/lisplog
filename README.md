@@ -19,6 +19,7 @@ entries
 
 #### Resources I'm Using
 [*Practical Common Lisp*](http://www.gigamonkeys.com/book/), Peter Seibel
+[*The Common Lisp Cookbook*](https://github.com/LispCookbook/cl-cookbook), Various
 
 *A Brief Introduction to Lisp*, O'Reilly
   - [*Part 1: Syntax*](https://www.youtube.com/watch?v=M-BFgErib4k)
